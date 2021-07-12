@@ -1,0 +1,18 @@
+C:\Users\namky\source\repos\SW3 ver 0.1\SW3 ver 0.1\bin\Debug\SW3 ver 0.1.exe.config
+C:\Users\namky\source\repos\SW3 ver 0.1\SW3 ver 0.1\bin\Debug\SW3 ver 0.1.exe
+C:\Users\namky\source\repos\SW3 ver 0.1\SW3 ver 0.1\bin\Debug\SW3 ver 0.1.pdb
+C:\Users\namky\source\repos\SW3 ver 0.1\SW3 ver 0.1\obj\Debug\SW3 ver 0.1.csprojAssemblyReference.cache
+C:\Users\namky\source\repos\SW3 ver 0.1\SW3 ver 0.1\obj\Debug\SW3_ver_0._1.Form1.resources
+C:\Users\namky\source\repos\SW3 ver 0.1\SW3 ver 0.1\obj\Debug\SW3_ver_0._1.Properties.Resources.resources
+C:\Users\namky\source\repos\SW3 ver 0.1\SW3 ver 0.1\obj\Debug\SW3 ver 0.1.csproj.GenerateResource.cache
+C:\Users\namky\source\repos\SW3 ver 0.1\SW3 ver 0.1\obj\Debug\SW3 ver 0.1.exe
+C:\Users\namky\source\repos\SW3 ver 0.1\SW3 ver 0.1\obj\Debug\SW3 ver 0.1.pdb
+C:\Users\namky\OneDrive\바탕 화면\SW3 ver 0.1\SW3 ver 0.1\bin\Debug\SW3 ver 0.1.exe.config
+C:\Users\namky\OneDrive\바탕 화면\SW3 ver 0.1\SW3 ver 0.1\bin\Debug\SW3 ver 0.1.exe
+C:\Users\namky\OneDrive\바탕 화면\SW3 ver 0.1\SW3 ver 0.1\bin\Debug\SW3 ver 0.1.pdb
+C:\Users\namky\OneDrive\바탕 화면\SW3 ver 0.1\SW3 ver 0.1\obj\Debug\SW3 ver 0.1.csprojAssemblyReference.cache
+C:\Users\namky\OneDrive\바탕 화면\SW3 ver 0.1\SW3 ver 0.1\obj\Debug\SW3_ver_0._1.Form1.resources
+C:\Users\namky\OneDrive\바탕 화면\SW3 ver 0.1\SW3 ver 0.1\obj\Debug\SW3_ver_0._1.Properties.Resources.resources
+C:\Users\namky\OneDrive\바탕 화면\SW3 ver 0.1\SW3 ver 0.1\obj\Debug\SW3 ver 0.1.csproj.GenerateResource.cache
+C:\Users\namky\OneDrive\바탕 화면\SW3 ver 0.1\SW3 ver 0.1\obj\Debug\SW3 ver 0.1.exe
+C:\Users\namky\OneDrive\바탕 화면\SW3 ver 0.1\SW3 ver 0.1\obj\Debug\SW3 ver 0.1.pdb

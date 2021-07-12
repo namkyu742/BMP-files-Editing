@@ -1,0 +1,156 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1">
+  <Class Name="SW3_ver_0._1.Main">
+    <Position X="0.5" Y="0.5" Width="2.5" />
+    <Members>
+      <Field Name="button1" Hidden="true" />
+      <Field Name="button2" Hidden="true" />
+      <Field Name="components" Hidden="true" />
+      <Method Name="Dispose" Hidden="true" />
+      <Field Name="groupBox1" Hidden="true" />
+      <Field Name="groupBox2" Hidden="true" />
+      <Method Name="InitializeComponent" Hidden="true" />
+      <Method Name="Main" Hidden="true" />
+      <Field Name="menuStrip1" Hidden="true" />
+      <Field Name="openFileDialog1" Hidden="true" />
+      <Field Name="pictureBox1" Hidden="true" />
+      <Field Name="pictureBox2" Hidden="true" />
+      <Method Name="Processing_arithmetic_Clicked" Hidden="true" />
+      <Field Name="saveFileDialog1" Hidden="true" />
+      <Field Name="statusStrip1" Hidden="true" />
+      <Field Name="textBox1" Hidden="true" />
+      <Field Name="textBox2" Hidden="true" />
+      <Field Name="toolStripStatusLabel1" Hidden="true" />
+      <Field Name="그레이스케일변환ToolStripMenuItem" Hidden="true" />
+      <Field Name="끝내기ToolStripMenuItem" Hidden="true" />
+      <Field Name="다른이름으로저장ToolStripMenuItem" Hidden="true" />
+      <Field Name="도움말ToolStripMenuItem" Hidden="true" />
+      <Field Name="두영상합산ToolStripMenuItem" Hidden="true" />
+      <Field Name="밝기반전ToolStripMenuItem" Hidden="true" />
+      <Field Name="보기ToolStripMenuItem" Hidden="true" />
+      <Field Name="사각형생성ToolStripMenuItem" Hidden="true" />
+      <Field Name="상하좌우반전ToolStripMenuItem" Hidden="true" />
+      <Field Name="열기ToolStripMenuItem" Hidden="true" />
+      <Field Name="저장ToolStripMenuItem" Hidden="true" />
+      <Field Name="파일ToolStripMenuItem" Hidden="true" />
+      <Field Name="프로그램정보ToolStripMenuItem" Hidden="true" />
+    </Members>
+    <TypeIdentifier>
+      <HashCode>jSwAJVIAAKABAgAMQKiAUAELEAQaAQgaECAAAQBAAAM=</HashCode>
+      <FileName>Main.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="SW3_ver_0._1.Option_Reverse_Symmetry">
+    <Position X="6.5" Y="2.5" Width="2.25" />
+    <Members>
+      <Field Name="button_Accept" Hidden="true" />
+      <Field Name="button_Cancle" Hidden="true" />
+      <Field Name="components" Hidden="true" />
+      <Method Name="Dispose" Hidden="true" />
+      <Field Name="groupBox1" Hidden="true" />
+      <Method Name="InitializeComponent" Hidden="true" />
+      <Method Name="Option_Reverse_Symmetry" Hidden="true" />
+      <Field Name="radioButton1" Hidden="true" />
+      <Field Name="radioButton2" Hidden="true" />
+      <Field Name="radioButton3" Hidden="true" />
+    </Members>
+    <TypeIdentifier>
+      <HashCode>AAAAAAEAACAAAAAAAACAAAQCAAAAAAAAACAIQAABACI=</HashCode>
+      <FileName>Option_Reverse_Symmetry.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="SW3_ver_0._1.Program_Info">
+    <Position X="9" Y="2.5" Width="2.25" />
+    <Members>
+      <Field Name="button_Accept" Hidden="true" />
+      <Field Name="components" Hidden="true" />
+      <Method Name="Dispose" Hidden="true" />
+      <Method Name="InitializeComponent" Hidden="true" />
+      <Field Name="label1" Hidden="true" />
+      <Field Name="label2" Hidden="true" />
+      <Field Name="label3" Hidden="true" />
+      <Method Name="Program_Info" Hidden="true" />
+    </Members>
+    <TypeIdentifier>
+      <HashCode>AAAAIAAAACAAABAAAACAAAACAAAAAAAAAAAAQAAAAAA=</HashCode>
+      <FileName>Program_Info.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="SW3_ver_0._1.Option_Make_Rectangle">
+    <Position X="3.75" Y="0.5" Width="2.5" />
+    <Members>
+      <Field Name="button_Accept" Hidden="true" />
+      <Field Name="button_Cancle" Hidden="true" />
+      <Field Name="Color_Palette" Hidden="true" />
+      <Field Name="colorDialog1" Hidden="true" />
+      <Field Name="components" Hidden="true" />
+      <Method Name="Dispose" Hidden="true" />
+      <Field Name="groupBox1" Hidden="true" />
+      <Field Name="groupBox2" Hidden="true" />
+      <Field Name="groupBox3" Hidden="true" />
+      <Method Name="InitializeComponent" Hidden="true" />
+      <Field Name="label1" Hidden="true" />
+      <Field Name="label2" Hidden="true" />
+      <Field Name="label3" Hidden="true" />
+      <Field Name="label4" Hidden="true" />
+      <Field Name="label5" Hidden="true" />
+      <Field Name="label6" Hidden="true" />
+      <Field Name="label7" Hidden="true" />
+      <Field Name="label8" Hidden="true" />
+      <Field Name="label9" Hidden="true" />
+      <Field Name="numericUpDown1" Hidden="true" />
+      <Field Name="numericUpDown2" Hidden="true" />
+      <Field Name="numericUpDown3" Hidden="true" />
+      <Field Name="numericUpDown4" Hidden="true" />
+      <Field Name="numericUpDown5" Hidden="true" />
+      <Field Name="numericUpDown6" Hidden="true" />
+      <Field Name="numericUpDown7" Hidden="true" />
+      <Method Name="Option_Make_Rectangle" Hidden="true" />
+      <Field Name="pictureBox2" Hidden="true" />
+    </Members>
+    <TypeIdentifier>
+      <HashCode>ADgAAQEAADAAARDAAADAAAwCAIEAACwOECAIWASBACA=</HashCode>
+      <FileName>Option_Make_Rectangle.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="SW3_ver_0._1.My_Bitmap">
+    <Position X="7" Y="0.5" Width="2.25" />
+    <Members>
+      <Field Name="bfOffset" Hidden="true" />
+      <Field Name="bfReserved1" Hidden="true" />
+      <Field Name="bfReserved2" Hidden="true" />
+      <Field Name="bfSize" Hidden="true" />
+      <Field Name="bfType1" Hidden="true" />
+      <Field Name="bfType2" Hidden="true" />
+      <Field Name="biBitCount" Hidden="true" />
+      <Field Name="biClrImportant" Hidden="true" />
+      <Field Name="biClrUsed" Hidden="true" />
+      <Field Name="biCompression" Hidden="true" />
+      <Field Name="biHeight" Hidden="true" />
+      <Field Name="biPlanes" Hidden="true" />
+      <Field Name="biSize" Hidden="true" />
+      <Field Name="biSizeImage" Hidden="true" />
+      <Field Name="biWidth" Hidden="true" />
+      <Field Name="biXPelsPerMeter" Hidden="true" />
+      <Field Name="biYPelsPerMeter" Hidden="true" />
+      <Field Name="rgb" Hidden="true" />
+    </Members>
+    <NestedTypes>
+      <Struct Name="SW3_ver_0._1.My_Bitmap.RGBTRIPLE" Collapsed="true">
+        <TypeIdentifier>
+          <NewMemberFileName>My_Bitmap.cs</NewMemberFileName>
+        </TypeIdentifier>
+      </Struct>
+      <Struct Name="SW3_ver_0._1.My_Bitmap.RGBQUAD" Collapsed="true">
+        <TypeIdentifier>
+          <NewMemberFileName>My_Bitmap.cs</NewMemberFileName>
+        </TypeIdentifier>
+      </Struct>
+    </NestedTypes>
+    <TypeIdentifier>
+      <HashCode>AAAgAAAAAIAQAAABAgIBgAAAJAAAQAADAAhIAJEEAAA=</HashCode>
+      <FileName>My_Bitmap.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Font Name="맑은 고딕" Size="9" />
+</ClassDiagram>

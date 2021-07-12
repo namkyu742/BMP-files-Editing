@@ -1,0 +1,100 @@
+C:\Users\namky\OneDrive\바탕 화면\SW3 ver 0.1 - 복사본\SW3 ver 0.1\bin\Debug\SW3 ver 0.1.exe.config
+C:\Users\namky\OneDrive\바탕 화면\SW3 ver 0.1 - 복사본\SW3 ver 0.1\bin\Debug\SW3 ver 0.1.exe
+C:\Users\namky\OneDrive\바탕 화면\SW3 ver 0.1 - 복사본\SW3 ver 0.1\bin\Debug\SW3 ver 0.1.pdb
+C:\Users\namky\OneDrive\바탕 화면\SW3 ver 0.1 - 복사본\SW3 ver 0.1\obj\Debug\SW3 ver 0.2.csprojAssemblyReference.cache
+C:\Users\namky\OneDrive\바탕 화면\SW3 ver 0.1 - 복사본\SW3 ver 0.1\obj\Debug\SW3_ver_0._1.Properties.Resources.resources
+C:\Users\namky\OneDrive\바탕 화면\SW3 ver 0.1 - 복사본\SW3 ver 0.1\obj\Debug\SW3 ver 0.2.csproj.GenerateResource.cache
+C:\Users\namky\OneDrive\바탕 화면\SW3 ver 0.1 - 복사본\SW3 ver 0.1\obj\Debug\SW3 ver 0.1.exe
+C:\Users\namky\OneDrive\바탕 화면\SW3 ver 0.1 - 복사본\SW3 ver 0.1\obj\Debug\SW3 ver 0.1.pdb
+C:\Users\namky\OneDrive\바탕 화면\SW3 ver 0.1 - 복사본\SW3 ver 0.1\obj\Debug\SW3_ver_0._1.Main.resources
+C:\Users\namky\OneDrive\바탕 화면\SW3 ver 0.1 - 복사본\SW3 ver 0.1\obj\Debug\SW3_ver_0._1.Option_Reverse_Symmetry.resources
+C:\Users\namky\OneDrive\바탕 화면\SW3 ver 0.1 - 복사본\SW3 ver 0.1\obj\Debug\SW3_ver_0._1.Option_Make_Rectangle.resources
+C:\Users\namky\OneDrive\바탕 화면\SW3 ver 0.1 - 복사본\SW3 ver 0.1\obj\Debug\SW3_ver_0._1.Option_Image_arithmetic.resources
+C:\Users\namky\OneDrive\바탕 화면\SW3 ver 0.3\SW3 ver 0.1\bin\Debug\SW3 ver 0.1.exe.config
+C:\Users\namky\OneDrive\바탕 화면\SW3 ver 0.3\SW3 ver 0.1\bin\Debug\SW3 ver 0.1.exe
+C:\Users\namky\OneDrive\바탕 화면\SW3 ver 0.3\SW3 ver 0.1\bin\Debug\SW3 ver 0.1.pdb
+C:\Users\namky\OneDrive\바탕 화면\SW3 ver 0.3\SW3 ver 0.1\obj\Debug\SW3_ver_0._1.Main.resources
+C:\Users\namky\OneDrive\바탕 화면\SW3 ver 0.3\SW3 ver 0.1\obj\Debug\SW3_ver_0._1.Option_Image_arithmetic.resources
+C:\Users\namky\OneDrive\바탕 화면\SW3 ver 0.3\SW3 ver 0.1\obj\Debug\SW3_ver_0._1.Option_Make_Rectangle.resources
+C:\Users\namky\OneDrive\바탕 화면\SW3 ver 0.3\SW3 ver 0.1\obj\Debug\SW3_ver_0._1.Option_Reverse_Symmetry.resources
+C:\Users\namky\OneDrive\바탕 화면\SW3 ver 0.3\SW3 ver 0.1\obj\Debug\SW3_ver_0._1.Properties.Resources.resources
+C:\Users\namky\OneDrive\바탕 화면\SW3 ver 0.3\SW3 ver 0.1\obj\Debug\SW3 ver 0.2.csproj.GenerateResource.cache
+C:\Users\namky\OneDrive\바탕 화면\SW3 ver 0.3\SW3 ver 0.1\obj\Debug\SW3 ver 0.1.exe
+C:\Users\namky\OneDrive\바탕 화면\SW3 ver 0.3\SW3 ver 0.1\obj\Debug\SW3 ver 0.1.pdb
+C:\Users\namky\OneDrive\바탕 화면\SW3 ver 0.3\SW3 ver 0.1\obj\Debug\SW3_ver_0._1.Program_Info.resources
+C:\Users\namky\OneDrive\바탕 화면\SW3 ver 0.3\SW3 ver 0.1\obj\Debug\SW3 ver 0.2.csprojAssemblyReference.cache
+C:\Users\namky\OneDrive\바탕 화면\SW3 ver 0.4\SW3 ver 0.1\bin\Debug\SW3 ver 0.1.exe.config
+C:\Users\namky\OneDrive\바탕 화면\SW3 ver 0.4\SW3 ver 0.1\bin\Debug\SW3 ver 0.1.exe
+C:\Users\namky\OneDrive\바탕 화면\SW3 ver 0.4\SW3 ver 0.1\bin\Debug\SW3 ver 0.1.pdb
+C:\Users\namky\OneDrive\바탕 화면\SW3 ver 0.4\SW3 ver 0.1\obj\Debug\SW3 ver 0.2.csprojAssemblyReference.cache
+C:\Users\namky\OneDrive\바탕 화면\SW3 ver 0.4\SW3 ver 0.1\obj\Debug\SW3_ver_0._1.Main.resources
+C:\Users\namky\OneDrive\바탕 화면\SW3 ver 0.4\SW3 ver 0.1\obj\Debug\SW3_ver_0._1.Option_Image_arithmetic.resources
+C:\Users\namky\OneDrive\바탕 화면\SW3 ver 0.4\SW3 ver 0.1\obj\Debug\SW3_ver_0._1.Option_Make_Rectangle.resources
+C:\Users\namky\OneDrive\바탕 화면\SW3 ver 0.4\SW3 ver 0.1\obj\Debug\SW3_ver_0._1.Option_Reverse_Symmetry.resources
+C:\Users\namky\OneDrive\바탕 화면\SW3 ver 0.4\SW3 ver 0.1\obj\Debug\SW3_ver_0._1.Program_Info.resources
+C:\Users\namky\OneDrive\바탕 화면\SW3 ver 0.4\SW3 ver 0.1\obj\Debug\SW3_ver_0._1.Properties.Resources.resources
+C:\Users\namky\OneDrive\바탕 화면\SW3 ver 0.4\SW3 ver 0.1\obj\Debug\SW3 ver 0.2.csproj.GenerateResource.cache
+C:\Users\namky\OneDrive\바탕 화면\SW3 ver 0.4\SW3 ver 0.1\obj\Debug\SW3 ver 0.1.exe
+C:\Users\namky\OneDrive\바탕 화면\SW3 ver 0.4\SW3 ver 0.1\obj\Debug\SW3 ver 0.1.pdb
+C:\Users\namky\OneDrive\바탕 화면\SW3 ver 0.5\SW3 ver 0.1\bin\Debug\SW3 ver 0.1.exe.config
+C:\Users\namky\OneDrive\바탕 화면\SW3 ver 0.5\SW3 ver 0.1\bin\Debug\SW3 ver 0.1.exe
+C:\Users\namky\OneDrive\바탕 화면\SW3 ver 0.5\SW3 ver 0.1\bin\Debug\SW3 ver 0.1.pdb
+C:\Users\namky\OneDrive\바탕 화면\SW3 ver 0.5\SW3 ver 0.1\obj\Debug\SW3 ver 0.2.csprojAssemblyReference.cache
+C:\Users\namky\OneDrive\바탕 화면\SW3 ver 0.5\SW3 ver 0.1\obj\Debug\SW3_ver_0._1.Main.resources
+C:\Users\namky\OneDrive\바탕 화면\SW3 ver 0.5\SW3 ver 0.1\obj\Debug\SW3_ver_0._1.Option_Image_arithmetic.resources
+C:\Users\namky\OneDrive\바탕 화면\SW3 ver 0.5\SW3 ver 0.1\obj\Debug\SW3_ver_0._1.Option_Make_Rectangle.resources
+C:\Users\namky\OneDrive\바탕 화면\SW3 ver 0.5\SW3 ver 0.1\obj\Debug\SW3_ver_0._1.Option_Reverse_Symmetry.resources
+C:\Users\namky\OneDrive\바탕 화면\SW3 ver 0.5\SW3 ver 0.1\obj\Debug\SW3_ver_0._1.Program_Info.resources
+C:\Users\namky\OneDrive\바탕 화면\SW3 ver 0.5\SW3 ver 0.1\obj\Debug\SW3_ver_0._1.Properties.Resources.resources
+C:\Users\namky\OneDrive\바탕 화면\SW3 ver 0.5\SW3 ver 0.1\obj\Debug\SW3 ver 0.2.csproj.GenerateResource.cache
+C:\Users\namky\OneDrive\바탕 화면\SW3 ver 0.5\SW3 ver 0.1\obj\Debug\SW3 ver 0.1.exe
+C:\Users\namky\OneDrive\바탕 화면\SW3 ver 0.5\SW3 ver 0.1\obj\Debug\SW3 ver 0.1.pdb
+C:\Users\namky\OneDrive\바탕 화면\SW3 ver 0.5 - 복사본\SW3 ver 0.1\bin\Debug\SW3 ver 0.1.exe.config
+C:\Users\namky\OneDrive\바탕 화면\SW3 ver 0.5 - 복사본\SW3 ver 0.1\bin\Debug\SW3 ver 0.1.exe
+C:\Users\namky\OneDrive\바탕 화면\SW3 ver 0.5 - 복사본\SW3 ver 0.1\bin\Debug\SW3 ver 0.1.pdb
+C:\Users\namky\OneDrive\바탕 화면\SW3 ver 0.5 - 복사본\SW3 ver 0.1\obj\Debug\SW3 ver 0.2.csprojAssemblyReference.cache
+C:\Users\namky\OneDrive\바탕 화면\SW3 ver 0.5 - 복사본\SW3 ver 0.1\obj\Debug\SW3_ver_0._1.Main.resources
+C:\Users\namky\OneDrive\바탕 화면\SW3 ver 0.5 - 복사본\SW3 ver 0.1\obj\Debug\SW3_ver_0._1.Option_Image_arithmetic.resources
+C:\Users\namky\OneDrive\바탕 화면\SW3 ver 0.5 - 복사본\SW3 ver 0.1\obj\Debug\SW3_ver_0._1.Option_Make_Rectangle.resources
+C:\Users\namky\OneDrive\바탕 화면\SW3 ver 0.5 - 복사본\SW3 ver 0.1\obj\Debug\SW3_ver_0._1.Option_Reverse_Symmetry.resources
+C:\Users\namky\OneDrive\바탕 화면\SW3 ver 0.5 - 복사본\SW3 ver 0.1\obj\Debug\SW3_ver_0._1.Program_Info.resources
+C:\Users\namky\OneDrive\바탕 화면\SW3 ver 0.5 - 복사본\SW3 ver 0.1\obj\Debug\SW3_ver_0._1.Properties.Resources.resources
+C:\Users\namky\OneDrive\바탕 화면\SW3 ver 0.5 - 복사본\SW3 ver 0.1\obj\Debug\SW3 ver 0.2.csproj.GenerateResource.cache
+C:\Users\namky\OneDrive\바탕 화면\SW3 ver 0.5 - 복사본\SW3 ver 0.1\obj\Debug\SW3 ver 0.1.exe
+C:\Users\namky\OneDrive\바탕 화면\SW3 ver 0.5 - 복사본\SW3 ver 0.1\obj\Debug\SW3 ver 0.1.pdb
+C:\Users\namky\OneDrive\바탕 화면\SW3 ver 0.6\SW3 ver 0.1\bin\Debug\SW3 ver 0.1.exe.config
+C:\Users\namky\OneDrive\바탕 화면\SW3 ver 0.6\SW3 ver 0.1\bin\Debug\SW3 ver 0.1.exe
+C:\Users\namky\OneDrive\바탕 화면\SW3 ver 0.6\SW3 ver 0.1\bin\Debug\SW3 ver 0.1.pdb
+C:\Users\namky\OneDrive\바탕 화면\SW3 ver 0.6\SW3 ver 0.1\obj\Debug\SW3 ver 0.2.csprojAssemblyReference.cache
+C:\Users\namky\OneDrive\바탕 화면\SW3 ver 0.6\SW3 ver 0.1\obj\Debug\SW3_ver_0._1.Main.resources
+C:\Users\namky\OneDrive\바탕 화면\SW3 ver 0.6\SW3 ver 0.1\obj\Debug\SW3_ver_0._1.Option_Make_Rectangle.resources
+C:\Users\namky\OneDrive\바탕 화면\SW3 ver 0.6\SW3 ver 0.1\obj\Debug\SW3_ver_0._1.Option_Reverse_Symmetry.resources
+C:\Users\namky\OneDrive\바탕 화면\SW3 ver 0.6\SW3 ver 0.1\obj\Debug\SW3_ver_0._1.Program_Info.resources
+C:\Users\namky\OneDrive\바탕 화면\SW3 ver 0.6\SW3 ver 0.1\obj\Debug\SW3_ver_0._1.Properties.Resources.resources
+C:\Users\namky\OneDrive\바탕 화면\SW3 ver 0.6\SW3 ver 0.1\obj\Debug\SW3 ver 0.2.csproj.GenerateResource.cache
+C:\Users\namky\OneDrive\바탕 화면\SW3 ver 0.6\SW3 ver 0.1\obj\Debug\SW3 ver 0.1.exe
+C:\Users\namky\OneDrive\바탕 화면\SW3 ver 0.6\SW3 ver 0.1\obj\Debug\SW3 ver 0.1.pdb
+C:\Users\namky\OneDrive\바탕 화면\SW3 ver 0.7 MY_BIT 포김\SW3 ver 0.1\bin\Debug\SW3 ver 0.1.exe.config
+C:\Users\namky\OneDrive\바탕 화면\SW3 ver 0.7 MY_BIT 포김\SW3 ver 0.1\bin\Debug\SW3 ver 0.1.exe
+C:\Users\namky\OneDrive\바탕 화면\SW3 ver 0.7 MY_BIT 포김\SW3 ver 0.1\bin\Debug\SW3 ver 0.1.pdb
+C:\Users\namky\OneDrive\바탕 화면\SW3 ver 0.7 MY_BIT 포김\SW3 ver 0.1\obj\Debug\SW3 ver 0.2.csprojAssemblyReference.cache
+C:\Users\namky\OneDrive\바탕 화면\SW3 ver 0.7 MY_BIT 포김\SW3 ver 0.1\obj\Debug\SW3_ver_0._1.Main.resources
+C:\Users\namky\OneDrive\바탕 화면\SW3 ver 0.7 MY_BIT 포김\SW3 ver 0.1\obj\Debug\SW3_ver_0._1.Option_Make_Rectangle.resources
+C:\Users\namky\OneDrive\바탕 화면\SW3 ver 0.7 MY_BIT 포김\SW3 ver 0.1\obj\Debug\SW3_ver_0._1.Option_Reverse_Symmetry.resources
+C:\Users\namky\OneDrive\바탕 화면\SW3 ver 0.7 MY_BIT 포김\SW3 ver 0.1\obj\Debug\SW3_ver_0._1.Program_Info.resources
+C:\Users\namky\OneDrive\바탕 화면\SW3 ver 0.7 MY_BIT 포김\SW3 ver 0.1\obj\Debug\SW3_ver_0._1.Properties.Resources.resources
+C:\Users\namky\OneDrive\바탕 화면\SW3 ver 0.7 MY_BIT 포김\SW3 ver 0.1\obj\Debug\SW3 ver 0.2.csproj.GenerateResource.cache
+C:\Users\namky\OneDrive\바탕 화면\SW3 ver 0.7 MY_BIT 포김\SW3 ver 0.1\obj\Debug\SW3 ver 0.1.exe
+C:\Users\namky\OneDrive\바탕 화면\SW3 ver 0.7 MY_BIT 포김\SW3 ver 0.1\obj\Debug\SW3 ver 0.1.pdb
+C:\Users\namky\OneDrive\바탕 화면\대학 2019-2\소프트웨어 분석 및 설계\SW 과제\개발중 파일\SW3 ver 0.7 MY_BIT 포김\SW3 ver 0.1\bin\Debug\SW3 ver 0.1.exe.config
+C:\Users\namky\OneDrive\바탕 화면\대학 2019-2\소프트웨어 분석 및 설계\SW 과제\개발중 파일\SW3 ver 0.7 MY_BIT 포김\SW3 ver 0.1\bin\Debug\SW3 ver 0.1.exe
+C:\Users\namky\OneDrive\바탕 화면\대학 2019-2\소프트웨어 분석 및 설계\SW 과제\개발중 파일\SW3 ver 0.7 MY_BIT 포김\SW3 ver 0.1\bin\Debug\SW3 ver 0.1.pdb
+C:\Users\namky\OneDrive\바탕 화면\대학 2019-2\소프트웨어 분석 및 설계\SW 과제\개발중 파일\SW3 ver 0.7 MY_BIT 포김\SW3 ver 0.1\obj\Debug\SW3 ver 0.2.csprojAssemblyReference.cache
+C:\Users\namky\OneDrive\바탕 화면\대학 2019-2\소프트웨어 분석 및 설계\SW 과제\개발중 파일\SW3 ver 0.7 MY_BIT 포김\SW3 ver 0.1\obj\Debug\SW3_ver_0._1.Main.resources
+C:\Users\namky\OneDrive\바탕 화면\대학 2019-2\소프트웨어 분석 및 설계\SW 과제\개발중 파일\SW3 ver 0.7 MY_BIT 포김\SW3 ver 0.1\obj\Debug\SW3_ver_0._1.Option_Make_Rectangle.resources
+C:\Users\namky\OneDrive\바탕 화면\대학 2019-2\소프트웨어 분석 및 설계\SW 과제\개발중 파일\SW3 ver 0.7 MY_BIT 포김\SW3 ver 0.1\obj\Debug\SW3_ver_0._1.Option_Reverse_Symmetry.resources
+C:\Users\namky\OneDrive\바탕 화면\대학 2019-2\소프트웨어 분석 및 설계\SW 과제\개발중 파일\SW3 ver 0.7 MY_BIT 포김\SW3 ver 0.1\obj\Debug\SW3_ver_0._1.Program_Info.resources
+C:\Users\namky\OneDrive\바탕 화면\대학 2019-2\소프트웨어 분석 및 설계\SW 과제\개발중 파일\SW3 ver 0.7 MY_BIT 포김\SW3 ver 0.1\obj\Debug\SW3_ver_0._1.Properties.Resources.resources
+C:\Users\namky\OneDrive\바탕 화면\대학 2019-2\소프트웨어 분석 및 설계\SW 과제\개발중 파일\SW3 ver 0.7 MY_BIT 포김\SW3 ver 0.1\obj\Debug\SW3 ver 0.2.csproj.GenerateResource.cache
+C:\Users\namky\OneDrive\바탕 화면\대학 2019-2\소프트웨어 분석 및 설계\SW 과제\개발중 파일\SW3 ver 0.7 MY_BIT 포김\SW3 ver 0.1\obj\Debug\SW3 ver 0.1.exe
+C:\Users\namky\OneDrive\바탕 화면\대학 2019-2\소프트웨어 분석 및 설계\SW 과제\개발중 파일\SW3 ver 0.7 MY_BIT 포김\SW3 ver 0.1\obj\Debug\SW3 ver 0.1.pdb
